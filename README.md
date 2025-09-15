@@ -1,2 +1,2 @@
 # Batient6
-setup githubprofilr
+salut je m'appel bastien
