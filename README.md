@@ -1,5 +1,5 @@
 <h1 align="center">Salut 👋, Je suis Bastien</h1>
-<h3 align="center">Passionné de développement</h3>
+<h3 align="center">Passionné par la tech,le developpement et l'automatisation, je me forme à Epitech Montpellier.Je combine rigueur, adaptabilité et esprit d'équipe au quotidien.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bastient6&label=Profile%20views&color=0e75b6&style=flat" alt="bastient6" /> </p>
 
